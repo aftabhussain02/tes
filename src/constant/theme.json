@@ -1,0 +1,55 @@
+{
+  "colors": {
+    "primary": "#009fd6",
+    "secondary": "#6CBED6",
+    "backgroundColor": "#F5F5F5",
+    "pink": "#F54B77",
+    "fontColor": "#2C2C2C",
+    "lightGrey": "#B8B8B8",
+    "green": "#469D70",
+    "red": "#cc4646",
+    "grey": "#DADADA",
+    "text": "#848484",
+    "borderColor": "#e1eBee",
+    "selectedCardColor": "#B2B2B2",
+    "lightBlack": "#2C2C2C"
+  },
+  "Button": {
+    "buttonStyle": {
+      "borderRadius": 40,
+      "paddingTop": 8,
+      "paddingBottom": 8
+    },
+    "titleStyle": {
+      "textTransform": "capitalize",
+      "fontFamily": "Poppins-Regular"
+    }
+  },
+  "Text": {
+    "style": {
+      "color": "#313131",
+      "fontFamily": "Poppins-Regular"
+    }
+  },
+  "Icon": {
+    "underlayColor": "#003368",
+    "color": "#848484",
+    "type": "simple-line-icon"
+  },
+  "demoStyles": {
+    "elevationStyle": {
+      "borderWidth": 1,
+      "borderColor": "#e1eBee",
+      "elevation": 1,
+      "shadowColor": "#000",
+      "shadowOffset": {"width": 0, "height": 1},
+      "shadowOpacity": 0.5,
+      "shadowRadius": 1
+    },
+    "cardListItem": {
+      "flexDirection": "row",
+      "justifyContent": "space-between",
+      "paddingBottom": 10
+    }
+  }
+}
